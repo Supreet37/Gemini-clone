@@ -1,5 +1,7 @@
 # AskMe
 
+<img src="dark" height="150px" width="100%"> <br>
+
 AskMe is an AI-powered chatbot web application inspired by Google's Gemini interface. The project focuses on providing a clean conversational experience where users can interact with an AI assistant through text and voice inputs. Built using React and Tailwind CSS, the application offers a modern UI, responsive design, and contextual conversation support.
 
 ## Overview
@@ -97,7 +99,6 @@ AskMe can be used for:
 
 ## Demo 
 <img src="light" height="150px"> <br>
-<img src="dark" width="150px"> <br>
 
 
 ## Author
