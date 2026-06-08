@@ -95,6 +95,10 @@ AskMe can be used for:
 - Text-to-speech responses
 - Progressive Web App support
 
+## Demo 
+<img src="light" height="150px"> <br>
+<img src="dark" width="150px"> <br>
+
 
 ## Author
 
